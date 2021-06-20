@@ -1,0 +1,2 @@
+rootProject.name = "LXA1"
+include ':app'
